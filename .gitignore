@@ -1,0 +1,4 @@
+# SPICE simulation output
+*.raw
+*.log
+*.plt
